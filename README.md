@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/Dicast3/Scriptable-Widget-Collection/refs/heads/main/NyaaWidget/Photos/small_widget.jpeg" width="250" alt="foto">
 
 #### About
-A widget that displays random (sfw) photos of catgirls with Scriptable.
+iOS widget that displays random (sfw) photos of catgirls with Scriptable.
 
 <br/>
 
