@@ -21,13 +21,3 @@
 7) Quit the app again and search for your widget
 8) Longpress on the widget and choose "edit widget"
 9) Select your "Untitled script" in "Script" and "Run script" in "When interacting"
-
-### In app installation (Not supported yet - Scriptable gallery doesn't accept new scripts)
-1) Download [Scriptable app](https://scriptable.app/)
-2) Open Scriptable, open "gallery" menù
-3) Search for NyaaWidget (There is no searchbar though)
-4) Click "GET", then "Add to my scripts"
-5) Quit the app
-6) Longpress on your home screen and add Scriptable widget
-7) Longpress on the widget and choose "edit widget
-8) Select your "NyaaWidget" in "Script" and "Run script" in "When interacting"
