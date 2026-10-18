@@ -1,7 +1,7 @@
 # Screenshots
 | Small widget | Medium widget |
 |-----------|-----------|
-| ![small widget](https://github.com/Dicast3/NyaaWidget/blob/main/Photos/small_widget.jpeg) | ![medium widget](https://github.com/Dicast3/NyaaWidget/blob/main/Photos/medium_widget.jpeg) |
+| ![small widget](Photos/small_widget.jpeg) | ![medium widget](Photos/medium_widget.jpeg) |
 
 # General Info
 - Large widget is ugly (i'll not fix it soon)
