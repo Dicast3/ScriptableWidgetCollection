@@ -1,6 +1,6 @@
 # Widget List
 ### [NyaaWidget](https://github.com/Dicast3/Scriptable-Widget-Collection/tree/main/NyaaWidget)
-<source srcset="https://raw.githubusercontent.com/Dicast3/Scriptable-Widget-Collection/refs/heads/main/NyaaWidget/Photos/small_widget.jpeg" media="(max-width: 400px)">
+![foto](https://raw.githubusercontent.com/Dicast3/Scriptable-Widget-Collection/refs/heads/main/NyaaWidget/Photos/small_widget.jpeg)   
 #### About
 A widget that displays random (sfw) photos of catgirls with Scriptable.
 
