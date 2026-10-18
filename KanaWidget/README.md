@@ -1,7 +1,7 @@
 # Screenshots
 | Widget ON | Widget OFF |
 |-----------|-----------|
-| ![Widget on](Photos/KanaWidgetON.PNG) | ![Widget off](KanaWidgetOFF.PNG) |
+| ![Widget on](Photos/KanaWidgetON.PNG) | ![Widget off](Photos/KanaWidgetOFF.PNG) |
 
 # Info & Features
 - This widget is meant to be used solely on lock screen
